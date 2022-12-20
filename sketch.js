@@ -62,7 +62,8 @@ class Mover {
   show() {
     fill(0);
     image(img, this.pos.x, this.pos.y, img.width / 20, img.height / 20);
-    //circle(this.pos.x, this.pos.y, this.m);   
+    //circle(this.pos.x, this.pos.y, this.m);  
+     
   }
   
   show2(aCanvas) {
